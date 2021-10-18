@@ -3,6 +3,7 @@
 Today's Code
 =======================================================
 
+```
 class TreeNode{
     TreeNode left, right;
     int data;
@@ -18,3 +19,5 @@ public class BinaryTree {
         root.right = new TreeNode(30);
     }
 }
+```
+
